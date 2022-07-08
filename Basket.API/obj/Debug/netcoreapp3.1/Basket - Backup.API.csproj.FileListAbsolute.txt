@@ -1,0 +1,39 @@
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.csprojAssemblyReference.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\staticwebassets\Basket - Backup.API.StaticWebAssets.Manifest.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\staticwebassets\Basket - Backup.API.StaticWebAssets.xml
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.AssemblyInfoInputs.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.AssemblyInfo.cs
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Basket - Backup.API.exe
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.RazorTargetAssemblyInfo.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket - Backup.API.csproj.CopyComplete
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\CacheManager.Core.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\CacheManager.Microsoft.Extensions.Logging.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll

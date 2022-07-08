@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1/Discount.cs \
+obj\Release\netcoreapp3.1/DiscountGrpc.cs: ../../Discount/Discount.Grpc/Protos/discount.proto
