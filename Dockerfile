@@ -5,12 +5,12 @@ WORKDIR /app
 EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0-buster-slim AS build
-WORKDIR /src
+WORKDIR /Basket
 COPY ["Basket.API/Basket.API.csproj", "Basket.API/"]
-RUN dotnet restore 
+RUN dotnet restore "Basket.API/Basket.API.csproj"
 COPY . .
-WORKDIR "/src/Basket.API"
-RUN dotnet build /Basket.API/Basket.API.csproj" -c Release -o /app/build
+WORKDIR "/Basket/Basket.API"
+RUN dotnet build "Basket.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "Basket.API.csproj" -c Release -o /app/publish

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Basket.API"
+    "\\Basket.API",
+    "\\Basket.API\\Controllers",
+    "\\Basket.API\\Repositories"
   ],
-  "SelectedNode": "\\Basket.API\\Dockerfile",
+  "SelectedNode": "\\Basket.API\\Repositories\\BasketRepository.cs",
   "PreviewInSolutionExplorer": false
 }
