@@ -2,6 +2,6 @@ steps:
  
  # Docker Build
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t','gcr.io/$PROJECT_ID/catalogservice:$COMMIT_SHA', '.']
+    args: ['build', '-t','gcr.io/$PROJECT_ID/basketapi:$COMMIT_SHA', '.']
   # [END cloudbuild_python_image_yaml]
 
