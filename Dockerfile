@@ -6,7 +6,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0-buster-slim AS build
 WORKDIR /src
-COPY ["src/Services/Basket/Basket.API/Basket.API.csproj", "src/Services/Basket/Basket.API/"]
+COPY ["Basket.API/Basket.API.csproj", "src/Basket.API/"]
 RUN dotnet restore "Basket.API.csproj"
 COPY . .
 WORKDIR "/src/Basket.API"
