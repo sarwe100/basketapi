@@ -1,0 +1,5 @@
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Release\netcoreapp3.1\staticwebassets\Basket.API.StaticWebAssets.Manifest.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Release\netcoreapp3.1\staticwebassets\Basket.API.StaticWebAssets.xml
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Release\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Release\netcoreapp3.1\Basket.API.AssemblyInfoInputs.cache
+D:\GCP\run-aspnetcore-microservices\src\Services\Basket\Basket.API\obj\Release\netcoreapp3.1\Basket.API.AssemblyInfo.cs
