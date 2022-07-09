@@ -8,7 +8,8 @@ FROM mcr.microsoft.com/dotnet/sdk:5.0-buster-slim AS build
 WORKDIR /src
 COPY ["Basket/Basket.API/Basket.API.csproj", "Basket/Basket.API/"]
 RUN dotnet restore 
-
+COPY . .
+WORKDIR "/src/Services/Basket/Basket.API"
 RUN dotnet build "Basket/Basket.API/Basket.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
